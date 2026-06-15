@@ -11,13 +11,13 @@ presentation of results.
 
 ## Example outputs
 
-![Map of treatment and control schools](https://github.com/mrosadio/pdslasso-impact-evaluation/blob/main/output/UG_schools_distributions_alternative.pdf)
+![Map of treatment and control schools](https://github.com/mrosadio/pdslasso-impact-evaluation/blob/main/output/UG_schools_distributions_alternative.png)
 *Geographic distribution of program (treatment) and control schools across
 Uganda. It shows by controlling for regional fixed effects, by visualizing
 that school location, and therefore access to local labor markets, varies
 across treatment and control groups.*
 
-![PDS-LASSO robustness check](https://github.com/mrosadio/pdslasso-impact-evaluation/blob/main/output/figure_robustness_lambda_intermediary_outcomes.pdf)
+![PDS-LASSO robustness check](https://github.com/mrosadio/pdslasso-impact-evaluation/blob/main/output/figure_robustness_lambda_intermediary_outcomes.png)
 *Treatment effect estimates for intermediary outcomes (job search duration,
 interviews, confidence) under two PDS-LASSO penalty specifications: the
 plugin lambda and a 50% increase, used as a robustness check.*
